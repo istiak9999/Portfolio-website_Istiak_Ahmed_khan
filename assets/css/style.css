@@ -581,6 +581,21 @@ section {
   background: #fff;
   border: 2px solid #0563bb;
 }
+.download_resume button{
+  border-radius: 8px;
+  height: 30px;
+  border-width: 0px;
+  border-color: rgb(252, 252, 252);
+  background-color: #427cb2;
+  position: absolute;
+  color:white;
+
+
+
+}
+.download_resume button:hover{
+  transform: scale(1.05);
+}
 
 /*--------------------------------------------------------------
 # Portfolio
